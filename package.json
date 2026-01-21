@@ -1,0 +1,23 @@
+{
+  "name": "startup-stats",
+  "version": "1.0.0",
+  "description": "startup-stats is a package that sends Discord bot statistics to the console when it starts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecartofel/startup-stats.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "stats",
+    "statistics"
+  ],
+  "author": "thecartofel",
+  "license": "MIT",
+  "type": "commonjs"
+}
