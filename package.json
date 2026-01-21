@@ -1,6 +1,6 @@
 {
   "name": "startup-stats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "startup-stats is a package that sends Discord bot statistics to the console when it starts",
   "main": "index.js",
   "scripts": {

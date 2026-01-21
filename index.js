@@ -1,4 +1,4 @@
-function startupStats() {
+function startupStats(client) {
         if(!client.shard) {
             console.log(`====================================`)
             console.log(`Guilds: ${client.guilds.cache.size}`)

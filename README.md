@@ -8,7 +8,7 @@ const startupStats = require('startup-stats')
 Use the startupStats function in the ready event
 ```
 client.on('ready', () => {
-    startupStats();
+    startupStats(client);
 });
 ```
 ## Links
